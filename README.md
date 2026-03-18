@@ -117,4 +117,4 @@ ai-weather-assistant/
 
 ## 👨‍💻 Author
 
-Built by a beginner exploring the world of AI agents. 🚀
+Built by Ohm Parkash who is exploring the world of AI agents. 🚀
