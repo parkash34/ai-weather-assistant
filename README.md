@@ -115,6 +115,6 @@ ai-weather-assistant/
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-Built by Om Parkash who is exploring the world of AI agents. 🚀
+**Om Parkash** — [LinkedIn](https://www.linkedin.com/in/om-parkash34) · [GitHub](https://github.com/parkash34)
