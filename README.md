@@ -117,6 +117,4 @@ ai-weather-assistant/
 
 ## 👤 Author
 
-## 👤 Author
-
 **Ohm Parkash** — [LinkedIn](https://www.linkedin.com/in/om-parkash34/) · [GitHub](https://github.com/parkash34)
